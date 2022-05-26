@@ -1,1 +1,2 @@
-# Yaz-l-mseruven-m
+# Yazılımsal Baslangıçlar
+
